@@ -1,5 +1,6 @@
 ### Hi there 👋
-##Photographer by Day and Coder By Night
+**Photographer by Day and Coder By Night**
+
 <img src="https://user-images.githubusercontent.com/71788604/132047546-9f9248b9-a7d4-4d01-8f5f-d7cf7f5f76a8.jpg" alt="my-banner"/>
 
 
