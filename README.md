@@ -1,10 +1,6 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/71788604/132047546-9f9248b9-a7d4-4d01-8f5f-d7cf7f5f76a8.jpg" alt="my-banner"/>
-<p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/71788604/132047546-9f9248b9-a7d4-4d01-8f5f-d7cf7f5f76a8.jpg" alt=”my banner”>
-
-</p>
 
 <!--
 **AmanNawazManjith/AmanNawazManjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
