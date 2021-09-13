@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about React
-- 📫 How to reach me: Instagram: a._.man1617
+- 📫 How to reach me: My Instagram: a._.man184
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: Anime + Music is the way to go
 
