@@ -4,17 +4,14 @@
 <img src="https://user-images.githubusercontent.com/71788604/132047546-9f9248b9-a7d4-4d01-8f5f-d7cf7f5f76a8.jpg" alt="my-banner"/>
 
 
-<!--
-**AmanNawazManjith/AmanNawazManjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on first very own Website using React
+- 🌱 I’m currently learning Data Structures 
+- 👯 I’m looking to collaborate on Web Development
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about React
+- 📫 How to reach me: Instagram: a._.man1617
+- 😄 Pronouns: His/Him
+- ⚡ Fun fact: Anime + Music is the way to go
+
