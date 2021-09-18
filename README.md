@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on first very own Website using React
+- 🔭 I’m currently working on my first very own Website using React
 - 🌱 I’m currently learning Data Structures 
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Machine Learning
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: Anime + Music is the way to go
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanNawazManjith&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanNawazManjith&show_icons=true&theme=radical)\
+![hello there](https://komarev.com/ghpvc/?username=AmanNawazManjith&color=blueviolet)
+![Visitor Count](https://profile-counter.glitch.me/{AmanNawazManjith}/count.svg)
