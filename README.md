@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanNawazManjith&show_icons=true&theme=radical)\
 ![hello there](https://komarev.com/ghpvc/?username=AmanNawazManjith&color=blueviolet)
 ![Visitor Count](https://profile-counter.glitch.me/{AmanNawazManjith}/count.svg)
+[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmanNawazManjith&theme=react-dark)](https://github.com/AmanNawazManjith/github-readme-activity-graph)
+
