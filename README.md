@@ -2,7 +2,7 @@
 **Photographer by Day and Coder By Night**
 
 <img src="https://user-images.githubusercontent.com/71788604/132047546-9f9248b9-a7d4-4d01-8f5f-d7cf7f5f76a8.jpg" alt="my-banner"/>
-Check out my personal website : [Click Here](https://amannawazmanjith.github.io/pp.github.io/index.html)
+
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My Instagram: [Aman Nawaz Manjith](https://www.instagram.com/a._.man184/)
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: Anime + Music is the way to go
+- Check out my personal website : [Click Here](https://amannawazmanjith.github.io/pp.github.io/index.html)
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanNawazManjith&show_icons=true&theme=radical)\
 ![hello there](https://komarev.com/ghpvc/?username=AmanNawazManjith&color=blueviolet)
